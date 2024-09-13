@@ -43,7 +43,7 @@ My name is **Gabriel Cedraz**, and my primary interest is **learning**. I'm pass
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3.svg?style=for-the-badge&logo=nixos&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![AtlasOS](https://img.shields.io/badge/AtlasOS-Informational?style=for-the-badge&logo=linux&logoColor=white)
+![AtlasOS](https://img.shields.io/badge/AtlasOS%20for%20Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C.svg?style=for-the-badge&logo=manjaro&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E.svg?style=for-the-badge&logo=linux-mint&logoColor=white)
 
