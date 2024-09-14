@@ -52,4 +52,4 @@ My name is **Gabriel Cedraz**, and my primary interest is **learning**. I'm pass
 
 ## GitHub Stats
 
-![austrolopithecus's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=austrolopithecus&show_icons=true&theme=default)
