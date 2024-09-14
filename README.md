@@ -56,4 +56,8 @@ My name is **Gabriel Cedraz**, and my primary interest is **learning**. I'm pass
 ## GitHub Streak
 
 ![Gabriel's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=austrolopithecus&theme=tokyonight)
-[![Gabriel's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=austrolopithecus&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## Activity Graph
+
+![Gabriel's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=austrolopithecus&theme=tokyo-night)
+
