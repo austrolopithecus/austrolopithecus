@@ -53,6 +53,11 @@ My name is **Gabriel Cedraz**, and my primary interest is **learning**. I'm pass
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C.svg?style=for-the-badge&logo=manjaro&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E.svg?style=for-the-badge&logo=linux-mint&logoColor=white)
 
+## The ultimate answer
+
+- 42 
+Answer to the Ultimate Question of Life, the Universe, and Everything.
+
 ## GitHub Streak
 
 <div align="center">
