@@ -14,7 +14,7 @@ My name is **Gabriel Cedraz**, and my primary interest is **learning**. I'm pass
 
 ## The ultimate answer
 
-- 42. 
+- 42 
 Answer to the Ultimate Question of Life, the Universe, and Everything.
 
 ### Languages and Frameworks
