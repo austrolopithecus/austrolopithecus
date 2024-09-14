@@ -54,7 +54,7 @@ My name is **Gabriel Cedraz**, and my primary interest is **learning**. I'm pass
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E.svg?style=for-the-badge&logo=linux-mint&logoColor=white)
 
 ## GitHub Streak
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=austrolopithecus&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Gabriel's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=austrolopithecus&theme=tokyonight)
 
 
