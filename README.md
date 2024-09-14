@@ -7,9 +7,9 @@ My name is **Gabriel Cedraz**, and my primary interest is **learning**. I'm pass
 - 🌱 **Currently Learning:** Exploring new technologies and concepts to enhance my skills.
 
 - 💡 **Interests:** Open to anything that broadens my knowledge and professional growth.
-- 
+  
 - 🤝 **Looking to Collaborate On:** Projects that challenge me and offer learning opportunities.
-- 
+  
 - 📫 **How to Reach Me:** austrolopithecus@proton.me
 
 ## Tech Stack
