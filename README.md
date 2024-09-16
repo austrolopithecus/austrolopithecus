@@ -10,7 +10,7 @@ My name is **Gabriel Cedraz**, and my primary interest is **learning**. I'm pass
   
 - 🤝 **Looking to Collaborate On:** Projects that challenge me and offer learning opportunities.
   
-- 📫 **How to Reach Me:** austrolopithecus@proton.me
+- 📫 **How to Reach Me:** ga.czsan@gmail.com
 
 ## Tech Streak
 
